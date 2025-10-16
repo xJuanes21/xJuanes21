@@ -30,12 +30,6 @@
 
 ---
 
-### 📈 Algunos de mis proyectos
-- 🎯 **[Dashboard e-commerce](https://github.com/JuanesSalazar/ecommerce-dashboard)** – Panel con SSR, Prisma y PostgreSQL.  
-- 🌎 **[Landing multi-idioma](https://github.com/JuanesSalazar/landing-multilang)** – Página con i18n, SEO y animaciones GSAP.  
-- ⚡ **[App de gestión de tareas](https://github.com/JuanesSalazar/task-manager)** – Aplicación productiva con React, Zustand y Vite.  
-
----
 
 ### 🌐 Conecta conmigo
 <p align="center">
