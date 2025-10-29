@@ -7,12 +7,6 @@
 
 ---
 
-### 🚀 Stack Principal
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,js,nodejs,express,prisma,postgresql,mysql,mongodb,docker,git,linux" />
-</p>
-
----
 
 ### 💡 Sobre mí
 - 💻 Especialista en **Next.js + TypeScript**, con dominio de **React**, **TailwindCSS** y optimización de rendimiento (Core Web Vitals, SEO, SSR/SSG).  
@@ -23,7 +17,7 @@
 
 ---
 
-### 🧠 Tecnologías que domino
+### 🚀 Stack Tecnológico Principal
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,tailwind,nodejs,express,prisma,postgresql,mysql,mongodb,graphql,docker,git,linux,figma,vite" />
 </p>
